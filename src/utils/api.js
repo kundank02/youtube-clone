@@ -8,7 +8,7 @@ const options = {
     gl: 'US'
   },
   headers: {
-    'X-RapidAPI-Key': process.env.REACT_APP_YOUTUBE_API_KEY,
+    'X-RapidAPI-Key': 'c57b0af775mshe24eb9634d01319p154f72jsncdbf1b8f0bf9',
     'X-RapidAPI-Host': 'youtube138.p.rapidapi.com'
   }
 };
